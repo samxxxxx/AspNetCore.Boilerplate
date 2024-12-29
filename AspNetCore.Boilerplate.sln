@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Boilerplate.Web", "AspNetCore.Boilerplate.Web\AspNetCore.Boilerplate.Web.csproj", "{3D17E66F-DFC5-4056-9749-537C14042CCD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Boilerplate.Web", "src\AspNetCore.Boilerplate.Web\AspNetCore.Boilerplate.Web.csproj", "{3D17E66F-DFC5-4056-9749-537C14042CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Boilerplate.EntityFrameworkCore", "AspNetCore.Boilerplate.EntityFrameworkCore\AspNetCore.Boilerplate.EntityFrameworkCore.csproj", "{00BB4100-80D3-48F1-B3A6-1C6DC3946383}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Boilerplate.EntityFrameworkCore", "src\AspNetCore.Boilerplate.EntityFrameworkCore\AspNetCore.Boilerplate.EntityFrameworkCore.csproj", "{00BB4100-80D3-48F1-B3A6-1C6DC3946383}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Boilerplate.Service", "AspNetCore.Boilerplate.Service\AspNetCore.Boilerplate.Service.csproj", "{C5A36AEC-72C9-4E0D-A9F2-0BF1FE3A9466}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Boilerplate.Service", "src\AspNetCore.Boilerplate.Service\AspNetCore.Boilerplate.Service.csproj", "{C5A36AEC-72C9-4E0D-A9F2-0BF1FE3A9466}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
