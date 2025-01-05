@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Boilerplate.Enti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Boilerplate.Service", "src\AspNetCore.Boilerplate.Service\AspNetCore.Boilerplate.Service.csproj", "{C5A36AEC-72C9-4E0D-A9F2-0BF1FE3A9466}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Boilerplate.Core", "src\AspNetCore.Boilerplate.Core\AspNetCore.Boilerplate.Core.csproj", "{3DEDDBCB-E9E8-4858-AD39-7B81D44FF860}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C5A36AEC-72C9-4E0D-A9F2-0BF1FE3A9466}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5A36AEC-72C9-4E0D-A9F2-0BF1FE3A9466}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5A36AEC-72C9-4E0D-A9F2-0BF1FE3A9466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEDDBCB-E9E8-4858-AD39-7B81D44FF860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEDDBCB-E9E8-4858-AD39-7B81D44FF860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEDDBCB-E9E8-4858-AD39-7B81D44FF860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEDDBCB-E9E8-4858-AD39-7B81D44FF860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
